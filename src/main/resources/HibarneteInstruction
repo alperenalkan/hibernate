@@ -1,0 +1,10 @@
+com.tpe.HibernateInstruction
+ ├─ hb01
+ │   ├─ annotations
+ │   │    ├─ entity (Student01.java)
+ │   │    ├─ repository (StudentRepository.java)
+ │   │    ├─ service (StudentService.java)
+ │   │    ├─ controller (StudentController.java)
+ │   │    └─ RunnerSave01.java (sadece test amaçlı olabilir)
+ │   │    └─ RunnerFetch01.java (sadece test amaçlı olabilir)
+ └─ hibernate.cfg.xml
